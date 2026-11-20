@@ -13,7 +13,7 @@ const TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID || "template_iuasd2
 const PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC_KEY || "B8QoP2TaMm3nitebN";
 
 export default function ContactWidget({
-  whatsappNumber = "2348000000000",
+  whatsappNumber = "2347070045631",
   defaultWhatsAppText = "Hello! I'd like to discuss a project with you.",
   externalOpenSignal = 0,
 }) {
